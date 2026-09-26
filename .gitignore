@@ -4,5 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 data/
 index/
+indexdir/
+*.pkl
 submission.csv
 .DS_Store
