@@ -1,0 +1,8 @@
+.venvs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+index/
+submission.csv
+.DS_Store
