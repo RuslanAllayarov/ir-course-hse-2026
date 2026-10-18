@@ -1,0 +1,6 @@
+numpy==2.5.3
+pandas==3.0.6
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+scikit-learn==1.9.1
+scipy==1.18.1

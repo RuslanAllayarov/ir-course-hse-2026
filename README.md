@@ -16,12 +16,15 @@
 | ДЗ | Тема | Дедлайн |
 |---|---|---|
 | [ДЗ 1](homeworks/hw1-boolean-retrieval/) | Индексация и булев поиск | 10.10.2026 |
+| [ДЗ 2](homeworks/hw2-text-ranking/) | Текстовое ранжирование | 04.11.2026 |
 
 Семинары:
 
 | № | Тема | Папка |
 |---|---|---|
 | 2 | Индексация и булев поиск, whoosh | [seminars/02-indexing-whoosh](seminars/02-indexing-whoosh/) |
+| 4 | Текстовое ранжирование, часть I: TF-IDF, морфология, LSA | [seminars/04-text-ranking-tfidf](seminars/04-text-ranking-tfidf/) |
+| 5 | Текстовое ранжирование, часть II: BM25, BM25F, языковые модели, nDCG | [seminars/05-text-ranking-bm25](seminars/05-text-ranking-bm25/) |
 
 ## Как запускать код
 
