@@ -1,0 +1,10 @@
+jupyter==1.1.1
+ipykernel==7.4.0
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+nltk==3.10.3
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+whoosh==2.7.4
